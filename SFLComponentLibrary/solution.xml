@@ -1,11 +1,11 @@
-<ImportExportXml version="9.2.25014.216" SolutionPackageVersion="9.2" languagecode="1033" generatedBy="CrmLive" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" OrganizationVersion="9.2.25014.216" OrganizationSchemaType="Standard" CRMServerServiceabilityVersion="9.2.25014.00216">
+<ImportExportXml version="9.2.25014.216" SolutionPackageVersion="9.2" languagecode="1033" generatedBy="CrmLive" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" OrganizationVersion="9.2.25014.216" OrganizationSchemaType="Standard" CRMServerServiceabilityVersion="9.2.25022.00196">
   <SolutionManifest>
     <UniqueName>SFLComponentLibrary</UniqueName>
     <LocalizedNames>
       <LocalizedName description="Tegel Design System" languagecode="1033" />
     </LocalizedNames>
     <Descriptions />
-    <Version>1.0.0.16</Version>
+    <Version>1.0.0.17</Version>
     <Managed>0</Managed>
     <Publisher>
       <UniqueName>Cre7dea</UniqueName>
