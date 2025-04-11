@@ -16,6 +16,10 @@ Download the managed ZIP file from this repository:
 
 > 📁 **[TegelDesignSystem_Managed.zip](./TegelDesignSystem_Managed.zip)**
 
+Click the `.zip` file in the GitHub file list, then click the **“Raw”** button to the right and save to your computer. 
+
+> ⚠️ Do not open the ZIP — Power Apps will not accept it if the file is unpacked or altered.
+
 ---
 
 ### 2. Import into Power Apps
